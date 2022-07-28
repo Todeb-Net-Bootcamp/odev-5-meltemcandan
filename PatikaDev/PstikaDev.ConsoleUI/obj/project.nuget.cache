@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dpe5Nkhn/MeIhuIC0B1dP2R3rSiLu2CjNZP6KSAml/JD9XCZsvQbnKgx8zlXSNSZrMLGrh3pmrc++X4K81mg7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-4-meltemcandan\\PatikaDev\\PstikaDev.ConsoleUI\\PstikaDev.ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\melte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\melte\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

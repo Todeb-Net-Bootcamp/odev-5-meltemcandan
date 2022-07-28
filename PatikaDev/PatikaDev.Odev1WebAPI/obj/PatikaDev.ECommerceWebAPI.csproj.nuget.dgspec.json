@@ -1,0 +1,429 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Odev1WebAPI\\PatikaDev.ECommerceWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\PatikaDev.Bussines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\PatikaDev.Bussines.csproj",
+        "projectName": "PatikaDev.Bussines",
+        "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\PatikaDev.Bussines.csproj",
+        "packagesPath": "C:\\Users\\melte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\melte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj": {
+                "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj"
+              },
+              "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\PatikaDev.DTO.csproj": {
+                "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\PatikaDev.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj",
+        "projectName": "PatikaDev.DAL",
+        "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj",
+        "packagesPath": "C:\\Users\\melte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\melte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\PatikaDev.Models.csproj": {
+                "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\PatikaDev.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\PatikaDev.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\PatikaDev.DTO.csproj",
+        "projectName": "PatikaDev.DTO",
+        "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\PatikaDev.DTO.csproj",
+        "packagesPath": "C:\\Users\\melte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\melte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\PatikaDev.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\PatikaDev.Models.csproj",
+        "projectName": "PatikaDev.Models",
+        "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\PatikaDev.Models.csproj",
+        "packagesPath": "C:\\Users\\melte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\melte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Odev1WebAPI\\PatikaDev.ECommerceWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Odev1WebAPI\\PatikaDev.ECommerceWebAPI.csproj",
+        "projectName": "PatikaDev.ECommerceWebAPI",
+        "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Odev1WebAPI\\PatikaDev.ECommerceWebAPI.csproj",
+        "packagesPath": "C:\\Users\\melte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Odev1WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\melte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\PatikaDev.Bussines.csproj": {
+                "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.Bussines\\PatikaDev.Bussines.csproj"
+              },
+              "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj": {
+                "projectPath": "C:\\Users\\melte\\OneDrive\\Masaüstü\\DERSLER\\odev-5-meltemcandan\\PatikaDev\\PatikaDev.DAL\\PatikaDev.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

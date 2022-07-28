@@ -1,0 +1,12 @@
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\bin\Debug\net5.0\PstikaDev.ConsoleUI.deps.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\bin\Debug\net5.0\PstikaDev.ConsoleUI.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\bin\Debug\net5.0\PstikaDev.ConsoleUI.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.AssemblyInfo.cs
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\refint\PstikaDev.ConsoleUI.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\PstikaDev.ConsoleUI.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PstikaDev.ConsoleUI\obj\Debug\net5.0\ref\PstikaDev.ConsoleUI.dll
