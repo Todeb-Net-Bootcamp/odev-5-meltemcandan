@@ -10,3 +10,15 @@ C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaD
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\refint\PatikaDev.DTO.dll
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.pdb
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\ref\PatikaDev.DTO.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\bin\Debug\net5.0\PatikaDev.DTO.deps.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\bin\Debug\net5.0\PatikaDev.DTO.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\bin\Debug\net5.0\PatikaDev.DTO.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.csproj.AssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.AssemblyInfoInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.AssemblyInfo.cs
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\refint\PatikaDev.DTO.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\PatikaDev.DTO.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.DTO\obj\Debug\net5.0\ref\PatikaDev.DTO.dll

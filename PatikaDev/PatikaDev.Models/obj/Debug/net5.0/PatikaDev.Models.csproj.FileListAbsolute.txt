@@ -10,3 +10,15 @@ C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaD
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\refint\PatikaDev.Models.dll
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.pdb
 C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-4-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\ref\PatikaDev.Models.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\bin\Debug\net5.0\PatikaDev.Models.deps.json
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\bin\Debug\net5.0\PatikaDev.Models.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\bin\Debug\net5.0\PatikaDev.Models.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.csproj.AssemblyReference.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.AssemblyInfoInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.AssemblyInfo.cs
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.csproj.CoreCompileInputs.cache
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\refint\PatikaDev.Models.dll
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\PatikaDev.Models.pdb
+C:\Users\melte\OneDrive\Masaüstü\DERSLER\odev-5-meltemcandan\PatikaDev\PatikaDev.Models\obj\Debug\net5.0\ref\PatikaDev.Models.dll

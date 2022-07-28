@@ -4,50 +4,52 @@ using PatikaDev.Bussines.Configuration;
 using PatikaDev.Bussines.Configuration.Extension;
 using PatikaDev.Bussines.Configuration.Validator.FluentValidation;
 using PatikaDev.DAL.Abstract;
-using PatikaDev.DTO.Customer;
+using PatikaDev.DTO.Basket;
 using PatikaDev.Models.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace PatikaDev.Bussines.Concrete
 {
-    public class CustomerService : ICustomerService
+    public class ProductService: IProductService
     {
-
-        private readonly ICustomerRepository _repository;
+        private readonly IProductRepository _repository;
         private IMapper _mapper;
 
-        public CustomerService(ICustomerRepository repository, IMapper mapper)
+        public ProductService(IProductRepository repository, IMapper mapper)
         {
             _repository = repository;
             _mapper = mapper;
         }
 
-        public IEnumerable<CustomerResponse> GetAll()
+        public IEnumerable<ProductResponse> GetAll()
         {
             var data = _repository.GetAll();
-            var mappedData = data.Select(x => _mapper.Map<CustomerResponse>(x)).ToList();
+            var mappedData = data.Select(x => _mapper.Map<ProductResponse>(x)).ToList();
             return mappedData;
         }
 
-        public IEnumerable<CustomerResponse> GetAllForReport()
+        public IEnumerable<ProductResponse> GetAllForReport()
         {
             var data = _repository.GetAll();
-            var mappedData = data.Select(x => _mapper.Map<CustomerResponse>(x)).ToList();
+            var mappedData = data.Select(x => _mapper.Map<ProductResponse>(x)).ToList();
             return mappedData;
         }
 
-        public CommandResponse Insert(CustomerRequest request)
+        public CommandResponse Insert(ProductRequest request)
         {
 
-            var validator = new CustomerRequestValidator();
+            var validator = new ProductRequestValidator();
             validator.Validate(request).ThrowIfException();
 
-           
 
-            var entity = _mapper.Map<Customer>(request);
 
-           
+            var entity = _mapper.Map<Product>(request);
+
+
 
 
             _repository.Insert(entity);
@@ -59,10 +61,10 @@ namespace PatikaDev.Bussines.Concrete
             };
         }
 
-        public CommandResponse Update(CustomerRequest request)
+        public CommandResponse Update(ProductRequest request)
         {
 
-            var validator = new CustomerRequestValidator();
+            var validator = new ProductRequestValidator();
             validator.Validate(request).ThrowIfException();
 
             var entity = _repository.Get(request.Id);
@@ -71,7 +73,7 @@ namespace PatikaDev.Bussines.Concrete
                 return new CommandResponse()
                 {
                     Status = false,
-                    Message = "Veri tabanında bu Id de kayıt bulunmamaktadır"
+                    Message = "Veri tabanında bu Id de ürün bulunmamaktadır"
                 };
             }
 
@@ -96,6 +98,5 @@ namespace PatikaDev.Bussines.Concrete
                 Message = $"Ürün silindi. Id={id}"
             };
         }
-
     }
 }

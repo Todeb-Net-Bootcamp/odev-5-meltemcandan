@@ -1,12 +1,9 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using PatikaDev.Bussines.Abstract;
 using PatikaDev.Bussines.Concrete;
@@ -14,10 +11,6 @@ using PatikaDev.Bussines.Configuration.Mapper;
 using PatikaDev.DAL.Abstract;
 using PatikaDev.DAL.Concrete.Ef;
 using PatikaDev.DAL.Contexts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace PatikaDev.Odev1WebAPI
 {
@@ -43,6 +36,9 @@ namespace PatikaDev.Odev1WebAPI
 
             services.AddScoped<ICustomerRepository, EFCustomerRepository>();
             services.AddScoped<ICustomerService, CustomerService>();
+
+            services.AddScoped<IProductRepository, EfProductRepository>();
+            services.AddScoped<IProductService, ProductService>();
 
             services.AddControllers();
 
